@@ -24,13 +24,23 @@ data mining预习资料
 ### 2.What is data mining
 * Defition
 
-1.non-trivial extraction of implicit, previously unknown and useful information from data
+  1.non-trivial extraction of implicit, previously unknown and useful information from data
  (从数据中抽取含蓄的，有用的，之前未知的信息)
  
-2.exploration&analysis, by automatic or semi-automatic means, of large quantities of adata in oder to discover meaningful     pattens
+  2.exploration&analysis, by automatic or semi-automatic means, of large quantities of adata in oder to discover    meaningful pattens
  (采用全自动或者半自动的方法，从大量数据中分析探索出有意义的模式)
+ 
+  3.process of semi-automatically analyzing large databases to find patterns that are:
+  valid:hold on new data with some certainty
+  novel:non-obvious to the system
+  useful:should be possible to act on the item
+  understandable:human should be able to interpret the patten
+ 
+* Process
+  databases -> Data Warehouse -> Data mining -> pattens -> knowledge
   
 ### 3.What kinds of Data can be Mined
+* Database Data
 ### 4.What technologies are used
 ### 5.What kinds of applications are targeted
 ### 6.Major issues in data mining
