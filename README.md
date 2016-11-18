@@ -22,8 +22,8 @@ data mining预习资料
 * Defition
   1.non-trivial extraction of implicit, previously unknown and useful information from data
   (从数据中抽取含蓄的，有用的，之前未知的信息)
-  2.exploration&analysis, by automatic or semi-automatic means, of large quantities of adata in oder to discover meaningful pattens
-  （采用全自动或者半自动的方法，从大量数据中分析探索出有意义的模式）
+  2.exploration&analysis, by automatic or semi-automatic means, of large quantities of adata in oder to discover meaningful     pattens
+  (采用全自动或者半自动的方法，从大量数据中分析探索出有意义的模式)
   
 ### 3.What kinds of Data can be Mined
 ### 4.What technologies are used
