@@ -1,8 +1,10 @@
 # data-mining-preview
 data mining预习资料
 
-## 1-intro
 ***
+
+## 1-intro
+
 ### 1.Why data mining
 * Science
 
@@ -41,7 +43,31 @@ data mining预习资料
   
 ### 3.What kinds of Data can be Mined
 * Database Data
+* Data Warehouse
+* Transaction Data
+
+### 4.What kinds of Patterns can be Mined
+* Class/Concept Description
+* Mining Frequent Patterns
+* Classification and Regression
+* Cluster
+* Outlier
+
 ### 4.What technologies are used
+statistics, artificial, intelligence, databases, visualization
+
+* Statistics
+
+  statistical descriptions, inferential statistics, statistical hypothesis testing
+
+* Machine Learning
+
+  supervised learning, unsupervised learning, semi-supervisied learning, active learning
+
 ### 5.What kinds of applications are targeted
 ### 6.Major issues in data mining
-
+* Mining methodology
+* User interaction
+* Efficiency and Scalability
+* Diversity of Database Types
+* Data Mining and Society
