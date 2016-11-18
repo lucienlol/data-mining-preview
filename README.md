@@ -71,3 +71,20 @@ statistics, artificial, intelligence, databases, visualization
 * Efficiency and Scalability
 * Diversity of Database Types
 * Data Mining and Society
+
+***
+## 2-data-exploration
+
+### 1.Data Objects and Attribute Types
+
+* Type of attributes
+
+  Nominal(名词性属性), Binary, Ordinal, Numeric
+
+  Numeric attribute contains Interval-scaled attributes(区间属性) and Ratio-scaled attributes(比例属性)
+  
+  
+### 2.Basic Statistical Descriptions of Data
+### 3.Data Visualization
+### 4.Measuring Data Similarity and Dissimilarity
+### 5.Useful thing to know:Document representatio and Similarity measure between documents
