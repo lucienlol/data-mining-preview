@@ -91,8 +91,20 @@ statistics, artificial, intelligence, databases, visualization
 
 ***
 ## 3-data-prepocessing
+
 ### 1.data preprocessing:overview
+* why process data
+
+* major tasks
+  * data cleaning
+  * data integration
+  * data reduction
+  * data transformation
+  
 ### 2.data cleaning
+* handle missing values
+
+*
 ### 3.data integration
 ### 4.data reduction
 ### 5.data transformation and data discretization
