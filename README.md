@@ -88,3 +88,6 @@ statistics, artificial, intelligence, databases, visualization
 ### 3.Data Visualization
 ### 4.Measuring Data Similarity and Dissimilarity
 ### 5.Useful thing to know:Document representatio and Similarity measure between documents
+
+***
+## 3-data-prepocessing
