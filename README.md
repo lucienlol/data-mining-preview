@@ -110,7 +110,8 @@ statistics, artificial, intelligence, databases, visualization
   5. use mean or median for all samples belong to the same class 
   6. use the most probable value
 
-*
+* handle noisy data
+  
 ### 3.data integration
 ### 4.data reduction
 ### 5.data transformation and data discretization
