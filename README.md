@@ -127,5 +127,17 @@ statistics, artificial, intelligence, databases, visualization
   for numeric attributes, correlation coefficient
   
 ### 4.data reduction
-
+ * dimensionality reduction
+  * wavelet transform
+  * principle components analysis
+  * attribute subset selection
+  
+ * numerosity reduction
+  * parametric methods
+  * nonparametric methods
+  * data compression
+  
 ### 5.data transformation and data discretization
+
+***
+## 4-frequent-itemsets
