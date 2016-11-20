@@ -103,6 +103,12 @@ statistics, artificial, intelligence, databases, visualization
   
 ### 2.data cleaning
 * handle missing values
+  1. ignore the tuple
+  2. fill in the missing value manaually
+  3. use a global constant
+  4. use a measure of central tendency
+  5. use mean or median for all samples belong to the same class 
+  6. use the most probable value
 
 *
 ### 3.data integration
