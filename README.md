@@ -111,7 +111,21 @@ statistics, artificial, intelligence, databases, visualization
   6. use the most probable value
 
 * handle noisy data
+  1. binning
+  2. regression
+  3. outlier analysis
   
 ### 3.data integration
+* entity identificaton problem
+
+  metadata:name, meaning, data type, range of values, rules to handle blank or null values
+  
+* redundancy and correlation analysis
+  
+  for nominal data, x<sup>2</sup>-test
+  
+  for numeric attributes, correlation coefficient
+  
 ### 4.data reduction
+
 ### 5.data transformation and data discretization
